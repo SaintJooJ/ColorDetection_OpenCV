@@ -6,14 +6,14 @@ Foram utilizados dois vídeos para o experimento, o primeiro para teste que é o
 
 Ao final do experimento, é possível observar os seguinte resultados:
 
-# Caleido
+<h2 align="center">Caleido</h2>
 <div align="center">
-
   ![caleido_comparison](https://user-images.githubusercontent.com/47436235/234878844-34aece71-1b0c-4a84-ab52-76333f95c881.png)
 </div>
 
+<h2 align="center">Montanha Russa</h2>
 <div align="center">
-  # Montanha Russa
+
   ![mont_russa_comparison](https://user-images.githubusercontent.com/47436235/234879157-8d095f6c-d3e7-4c67-afb1-f49228b46d14.png)
 </div>
 
