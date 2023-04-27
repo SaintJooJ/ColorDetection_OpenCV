@@ -6,9 +6,9 @@ Foram utilizados dois vídeos para o experimento, o primeiro para teste que é o
 
 Ao final do experimento, é possível observar os seguinte resultados:
 
-
+# Caleido
 <div align="center">
-  # Caleido
+
   ![caleido_comparison](https://user-images.githubusercontent.com/47436235/234878844-34aece71-1b0c-4a84-ab52-76333f95c881.png)
 </div>
 
