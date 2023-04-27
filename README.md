@@ -7,14 +7,14 @@ Foram utilizados dois vídeos para o experimento, o primeiro para teste que é o
 Ao final do experimento, é possível observar os seguinte resultados:
 
 
-<p align="center">
-  ## Caleido
+<div align="center">
+  # Caleido
   ![caleido_comparison](https://user-images.githubusercontent.com/47436235/234878844-34aece71-1b0c-4a84-ab52-76333f95c881.png)
-</p>
+</div>
 
-<p align="center">
-  ## Montanha Russa
+<div align="center">
+  # Montanha Russa
   ![mont_russa_comparison](https://user-images.githubusercontent.com/47436235/234879157-8d095f6c-d3e7-4c67-afb1-f49228b46d14.png)
-</p>
+</div>
 
 
